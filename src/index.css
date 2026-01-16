@@ -1,0 +1,10 @@
+@import "tailwindcss";
+*{
+    font-family: 'Roboto';
+    box-sizing: border-box;
+}
+body{
+    height: 200vh;
+}
+
+
